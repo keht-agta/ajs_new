@@ -1,0 +1,20 @@
+{
+  "name": "@keht-agta/ajs_new",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/keht-agta/ajs_new#readme",
+  "bugs": {
+    "url": "https://github.com/keht-agta/ajs_new/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keht-agta/ajs_new.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
